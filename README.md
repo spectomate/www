@@ -1,5 +1,29 @@
 # [spectomate.com](http://www.spectomate.com)
 
+## logo
+
+
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle of the eye -->
+  <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="4" fill="none" />
+  <!-- Inner circle of the eye -->
+  <circle cx="50" cy="50" r="10" fill="#4CAF50" />
+  <!-- Radiating lines around the eye -->
+  <line x1="50" y1="10" x2="50" y2="30" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="50" y1="70" x2="50" y2="90" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="10" y1="50" x2="30" y2="50" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="70" y1="50" x2="90" y2="50" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="15" y1="15" x2="35" y2="35" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="65" y1="65" x2="85" y2="85" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="15" y1="85" x2="35" y2="65" style="stroke:#4CAF50;stroke-width:2" />
+  <line x1="65" y1="35" x2="85" y2="15" style="stroke:#4CAF50;stroke-width:2" />
+  <!-- Company name -->
+  <text x="120" y="45" font-family="Arial" font-size="24" fill="#333">spectomate</text>
+  <!-- Motto -->
+  <text x="120" y="75" font-family="Arial" font-size="14" fill="#666">Deep Visual Analysis</text>
+</svg>
+
+
 ## Spectomate: Deep Visual Analysis
 
 Welcome to Spectomate, where we delve deep into the intricacies of visual data to uncover hidden patterns and insights. 
