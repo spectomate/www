@@ -1,5 +1,7 @@
 # [spectomate.com](http://www.spectomate.com)
 
+Name: spectomate
+Motto: visual analysis
 
 The brand name "Spectomate" is a brand that combines sophisticated observation or inspection capabilities with user-friendly, automated features. 
 
